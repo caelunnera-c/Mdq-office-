@@ -1,0 +1,8 @@
+{
+  "name": "MDQ Office",
+  "description": "Aplikasi pengolah dokumen profesional offline bergaya desktop untuk HP dan tablet Android dengan antarmuka desktop Word PC, ribbon lengkap, ruler interaktif, dan format DOCX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
